@@ -9,7 +9,7 @@ The main goal is to develop a trustworthy prediction model based on historical v
 
  ### **Dataset used in this Project**
 
-We are training our pricing model, using public price data of cryptocurrencies reported from Jan 1st, 2018 to Dec 31, 2021 downloaded from Yahoo Finance. For testing our model, we use the price data of cryptocurrencies from Jan 1st 2021 to present date. We use the model to predict the crytocurrency prices for this period and compare it to the actual prices to check the efficiency of this model in predicting the prices.
+We are training our pricing model, using public price data of cryptocurrencies reported from Jan 1st, 2018 to Dec 31, 2020 downloaded from Yahoo Finance. For testing our model, we use the price data of cryptocurrencies from Jan 1st 2021 to present date. We use the model to predict the crytocurrency prices for this period and compare it to the actual prices to check the efficiency of this model in predicting the prices.
 
 
 
