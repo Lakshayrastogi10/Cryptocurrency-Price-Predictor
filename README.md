@@ -13,7 +13,7 @@ We are training our pricing model, using public price data of cryptocurrencies r
 
 
 
-### **Model we have used for prediction**
+### **Model have used for prediction**
 
 We are using a multilayer RNN Long Term Short Term Memory (LSTM) model having 3 LSTM layers with each layer followed by a dropout layer (with 20% dropout frequency) and at last have used a Dense layer to produce the predicted price.
 
